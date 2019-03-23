@@ -8,6 +8,8 @@
 
 Download executable [here](https://github.com/hunterwyld/http_echo/releases/download/v1.0.0/http_echo-1.0.0.tar.gz) and extract tar file
 
+`cd bin`
+
 Run `./start.sh` to start the server on default port 8080, or `./start.sh -p {port}` on the assigned port
 
 #### To access the server
